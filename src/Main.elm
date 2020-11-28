@@ -4,17 +4,13 @@ import Browser
 import Controls exposing (EditorMsg(..))
 import Editor
 import FontAwesome.Styles
-import Html exposing (Html, a, h1, p, text)
-import Html.Attributes exposing (href, title)
+import Html exposing (Html, p, text)
 import Json.Decode exposing (Value)
-import Links exposing (rteToolkit)
 import RichText.Definitions as Specs
 import RichText.Editor as RTE
-import Session exposing (Session)
 
 
 import Html exposing (..)
-import Session exposing (Session(..))
 
 
 type alias Model =
