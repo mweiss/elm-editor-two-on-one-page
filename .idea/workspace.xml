@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="092b9fb3-7996-4019-9d65-40779c5b5536" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm.json" />
+    </elmProjects>
+    <settings elmCompilerPath="/usr/local/bin/elm" elmFormatPath="/usr/local/bin/elm-format" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ProjectId" id="1ktaAd4aZGzQvfT2uPXLzfgGK9w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elm.json" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.elm.workspace.ui.ElmWorkspaceConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092b9fb3-7996-4019-9d65-40779c5b5536" name="Default Changelist" comment="" />
+      <created>1606522198685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606522198685</updated>
+      <workItem from="1606522199729" duration="2537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="196" key="FileChooserDialogImpl" timestamp="1606522262363">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="535" y="196" key="FileChooserDialogImpl/0.23.1440.823@0.23.1440.823" timestamp="1606522262363" />
+    <state x="248" y="73" key="SettingsEditor" timestamp="1606522250358">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="248" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1606522250358" />
+    <state x="78" y="41" width="1096" height="623" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606522977507">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="78" y="41" width="1096" height="623" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.823@0.23.1440.823" timestamp="1606522977507" />
+    <state x="367" y="189" width="604" height="490" key="find.popup" timestamp="1606523815597">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="367" y="189" width="604" height="490" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1606523815597" />
+  </component>
+</project>
